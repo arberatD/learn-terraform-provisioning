@@ -1,0 +1,25 @@
+users:
+  - default
+  - name: terraform
+    gecos: terraform
+    primary_group: hashicorp
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    ssh_import_id:
+    lock_passwd: false
+    ssh_authorized_keys:
+    - b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
+NhAAAAAwEAAQAAAYEA0LptbdossLPQOa94jPmVZgT1DpRComeQTpgn6B9S787ad82I++T1
+hpl+e8z+ntK2Nr8RxAVrpsf+9eYc6L7YVRXAeYqq4+zEXXjNgf5w/z/E/yXDqxQCfchBZt
+4BJU+3FDCLSPNVEMVLT6oqzrSTmtU4engNosuofG+b7G3i/94Ilw9jSUxfuKAs0HDZt6b2
+yl5Vr59iAd0Jw2+0PEFzYOWfH5ArRDcRmTvc8Rn1agV1gKhQ0G/4eL293J46kFWGpVU2gt
+h+qSIJ86eBN9Qowf078/JGA8ieDTR6mBpW2EL43O5RTBKc/O4HwsHxFw91o09B7eE9DMCM
+6Pp8G6+M+6HvB4zt+3KW/oHbNcZvM/G3+1WWUBO5uDnIg3k9gVhFdKdrhUNJarWAme8PkY
+zkkDgDuINT/c8VxFP0IxArXvD5oUc6k+ZB8cZV9dczXSnbFVHgTAmwF6YyJBgFFqUu4JNk
+HIUD++pAAYkD1ePudLQvNAsp5O4UF/yZEsqCq0wXAAAFmC/Jm+cvyZvnAAAAB3NzaC1yc2
+EAAAGBANC6bW3aLLCz0DmveIz5lWYE9Q6UQqJnkE6YJ+gfUu/O2nfNiPvk9YaZfnvM/p7S
+tja/EcQFa6bH/vXmHOi+2FUVwHmKquPsxF14zYH+cP8/xP8lw6sUAn3IQWbeASVPtxQwi0
+jzVRDFS0+qKs60k5rVOHp4DaLLqHxvm+xt4v/eCJcPY0lMX7igLNBw2bem9speVa+fYgHd
+CcNvtDxBc2Dlnx+QK0Q3EZk73PEZ9WoFdYCoUNBv+Hi9vdyeOpBVhqVVNoLYfqkiCfOngT
+fUKMH9O/PyRgPIng00epgaVthC+NzuUUwSnPzuB8LB8RcPdaNPQe3hPQzAjOj6fBuvjPuh
+7weM7ftylv6B2zXGbzPxt/tVllATubg5yIN5PYFYRXSna4VDSWq1gJnvD5GM5JA4A7iDU/
